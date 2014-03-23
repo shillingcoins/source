@@ -1,7 +1,7 @@
 Shilling integration/staging tree
 ================================
 
-http://www.shilling.org
+http://www.shillingcoins.org
 
 Copyright (c) 2009-2013 Shilling Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. Shilling is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Shilling client software, see http://www.shilling.org.
+the Shilling client software, see http://www.shillingcoins.org.
 
 License
 -------
