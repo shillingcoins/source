@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Shilling
+Comment=Shilling P2P Cryptocurrency
+Comment[fr]=Shilling, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Shilling, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/shilling-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/shilling128.png
+MimeType=x-scheme-handler/shilling;
+Categories=Office;

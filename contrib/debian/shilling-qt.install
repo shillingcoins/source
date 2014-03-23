@@ -1,0 +1,6 @@
+shilling-qt usr/bin
+share/pixmaps/shilling32.xpm usr/share/pixmaps
+share/pixmaps/shilling16.xpm usr/share/pixmaps
+share/pixmaps/shilling128.png usr/share/pixmaps
+debian/shilling-qt.desktop usr/share/applications
+debian/shilling-qt.protocol usr/share/kde4/services/
